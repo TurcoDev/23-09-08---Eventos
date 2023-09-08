@@ -1,0 +1,15 @@
+div{
+  width: 150px;
+  height: 150px;
+  background-color: cadetblue;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+img{
+  width: 100%;
+}
+
+.classImg{
+  margin: 20px;
+}
